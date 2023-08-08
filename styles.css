@@ -113,3 +113,14 @@ footer {
   color: #7d7874;
   background-color: transparent;
 }
+
+.hotel-section,
+.hotel-section a {
+  font-family: "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans",
+    sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",
+    "Noto Color Emoji" !important;
+}
+
+.hotel-section p {
+  text-align: left !important;
+}
